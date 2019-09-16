@@ -1,1 +1,1 @@
-# lightning_talk_vsAppCenter
+# Lightning Talk Visual Studio App Center
