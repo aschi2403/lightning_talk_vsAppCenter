@@ -17,13 +17,17 @@ paniganation: true
 
 # Continuous Integration
 - build in the cloud
+- Build from repositories
+    - Github
+    - Bitbucket
+    - Azure repos
 - pull requests
 - on demand
 
 
 ---
 
-# Contiuous Learning
+# Continuous Learning
 - Insightful crash reports
     - Diagnose Issues
 - Real-time analytics
@@ -31,8 +35,15 @@ paniganation: true
 ---
 
 # Continuous Quality
-- Automated UI tests in the cloud
+- Automated UI tests with actual physical devices
+
+
 
 ---
 
 # Continuous Delivery
+- distribute to beta testers
+   - different builds to different groups
+- distribute to
+   - App Store
+   - Google Play

@@ -1,0 +1,1 @@
+dotnet Lightning-Talk-Demo.dll %*
